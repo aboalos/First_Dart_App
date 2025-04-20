@@ -6,8 +6,8 @@ int myyear = 2001;
 double myHight = 190.5;
 
 print(myname[0].toUpperCase());
-print (myHight.ceil());
-print (myHight.floor());
+print (myAge.ceil());
+print (myyear.floor());
 print (myHight.round());
 
 }
